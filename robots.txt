@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zh.sample-studio.cn/sitemap.xml
